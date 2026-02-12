@@ -26,3 +26,6 @@ numpy
 scikit-learn
 
 sentence-transformers
+
+langchain-ollama
+pydantic
